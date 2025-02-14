@@ -1,3 +1,6 @@
+
+cd "C:\Users\user\Sisi\myapp\f.csa311.25b-lab02\java\src\main\java\edu\cmu\cs\cs214\lab02\"
+
 compile hiih
 javac -d out Main.java Renderer.java shapes/*.java
 run hiih
