@@ -1,0 +1,4 @@
+compile hiih
+javac -d out Main.java Renderer.java shapes/*.java
+run hiih
+java -cp out edu.cmu.cs.cs214.lab02.Main
